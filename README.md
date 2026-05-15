@@ -1,5 +1,6 @@
 # EVALUACION-FINAL-POA---FELIPE-ROMERO
-A continuación esta el desarrollo de la Evaluación POA 
+#A continuación esta el desarrollo de la Evaluación POA 
+
 team_hours = [
     ["Alice", 8, 9, 7, 8, 8],    # Total: 40
     ["Bob", 10, 8, 9, 10, 9],   # Total: 46
